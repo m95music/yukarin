@@ -1,6 +1,5 @@
 numpy
 cupy
-chainer<6.0.0
 librosa<0.7.0
 pysptk
 pyworld
